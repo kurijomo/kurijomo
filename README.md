@@ -1,0 +1,2 @@
+# kurijomo
+basic site, trying. 
